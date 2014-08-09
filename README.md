@@ -43,6 +43,10 @@ starting the container:
 docker run -v /mydata/redis:/data -d -p 6379:6379 mini/redis
 ```
 
+## Sponsor
+
+Work on this was made possible thanks to [AREA 17](http://www.area17.com).
+
 ## License
 
 All the code contained in this repository, unless explicitly stated, is
